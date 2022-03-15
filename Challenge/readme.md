@@ -31,8 +31,6 @@ The results are accessed by opening index.html.
 
 The initial wed page will display all the data, along with the filters showing default values (these values help the user input)
 
-![UFO Data](https://github.com/pnimma01/UFOs/blob/db163a431c90eee3fbc684aa1a20806e04e8de90/Challenge/static/images/Landing.png)
-
 State Filter:
 
 ![State Filter](https://github.com/pnimma01/UFOs/blob/db163a431c90eee3fbc684aa1a20806e04e8de90/Challenge/static/images/State_Filter.png)
